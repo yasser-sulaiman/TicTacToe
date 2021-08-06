@@ -1,9 +1,9 @@
 # Tic Tac Toe GUI
 
-The famous Tic Tac Toe Game writtin using only python language.
-the game consists of a start main page where two choices are provided (either to start the game or to exit it) and game page where one player is randomly choosen to start (either X or O)
-consedring all the possible scenarios either one of the players win or the results is Tie.
-some snips from the game are shown bellow.
+The famous Tic Tac Toe Game writtin using only python language(pygame Library).  
+The game consists of a main page where two choices are provided (either to start the game or to exit it) and a game page where one player is randomly choosen to start (either X or O).  
+Consedring all the possible scenarios either one of the players win or the result is Tie.  
+Some snips from the game are shown bellow.
 
 # The Main Menu
 ![](https://github.com/yasser-sulaiman/TicTacToe/blob/main/images/main.PNG)
